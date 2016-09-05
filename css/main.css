@@ -8,7 +8,7 @@ html, body {
 }
 body {
     background: #eee;
-    font-family: PingFang TC, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
     font-size: 14px;
     color:#000;
     margin: 0;
@@ -229,8 +229,8 @@ body {
     height: auto;
     padding: 10px 20px;
     position: absolute;
-    bottom: 200px;
-    right: 10%;
+    bottom: 220px;
+    right: 4%;
     background-color: rgba(256,256,256,0.4);
 }
 .slide4 .manager h1{
@@ -239,17 +239,19 @@ body {
 }
 .slide4 .manager h3{
     text-align: left;
-    margin: 10px 0px;   
+    margin: 10px 0px; 
+    font-size: 16px;  
 }
 .slide4 .manager p{
     text-align: left;
     margin: 5px 0px;
+    font-size: 14px
 }
 .slide4 .jianli{
     width: 50%;
     height: 30px;
     line-height: 30px;
-    margin-top: 10px;
+    margin-top: 20px;
     background-color: #4a90e2;
     text-align: center;
     color: #fff;
@@ -261,7 +263,7 @@ body {
     padding: 10px 20px;
     height: auto;
     position: absolute;
-    right: 10%;
+    right: 4%;
     bottom: 100px;
     background-color: rgba(256,256,256,0.4);
     color: #fff;
@@ -295,7 +297,7 @@ body {
     font-size: 16px;
     color: #000;
     text-align: left;
-    margin: 10px;
+    margin: 10px 0;
 }
 .foot_ll p,.foot_rr p{
     font-size: 14px;
