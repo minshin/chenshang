@@ -8,7 +8,7 @@ html, body {
 }
 body {
     background: #eee;
-    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: "HanHei SC","PingFang SC","Helvetica Neue","Helvetica","STHeitiSC-Light","Arial",sans-serif;
     font-size: 14px;
     color:#000;
     margin: 0;
@@ -75,14 +75,14 @@ body {
 .title img{
     height: 32px;
     float: left;
-    margin: 15px 10px;
+    margin: 18px 10px;
 }
 .title .companyName{
     display: block;
     float: left;
 /*    height: 100px;
 */    font-size: 25px;
-    margin: 15px 10px;
+    margin: 18px 10px;
 /*    line-height: 100px;
 */    color: #fff;
 }
@@ -91,7 +91,7 @@ body {
     float: left;
 /*    height: 100px;
 */    font-size: 28px;
-    margin: 34px 10px;
+    margin: 25px 10px;
 /*    line-height: 100px;
 */    color: #fff;
 }
@@ -126,7 +126,7 @@ body {
     display: block;
     float: left;
     width: 6px;
-    height: 50px;
+    height: 40px;
     margin: 25px 10px;
     background-color: rgba(255,255,255,0.5);
 }
@@ -192,7 +192,7 @@ body {
     color: #fff;
     font-size: 16px;
 }
-.contents .content1 .work{
+.contents .content1 .position{
     
     display: block;
     padding: 0 20px;
@@ -200,6 +200,16 @@ body {
     font-size: 14px;
     color: #fff;
 }
+.contents .content1 .intro{
+    
+    display: block;
+    padding: 0 20px;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 12px;
+    color: #fff;
+}
+
 .join{
     width: 10%;
     height: 330px;
